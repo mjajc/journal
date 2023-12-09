@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13a14bd4e2f9da97",
+        "id": "da0f4c68e54cd20d",
         "type": "tabs",
         "children": [
           {
-            "id": "7e6b4d7de067d4e0",
+            "id": "b23ef9d97cfd216b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmation/unix.md",
+                "file": "langues/pimsleur.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "programmation/unix.md",
+            "file": "langues/pimsleur.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "programmation/unix.md",
+            "file": "langues/pimsleur.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "programmation/unix.md"
+            "file": "langues/pimsleur.md"
           }
         }
       }
@@ -132,13 +132,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5adacf4d27930dd2",
+  "active": "b23ef9d97cfd216b",
   "lastOpenFiles": [
     "README.md",
-    "programmation/unix.md",
+    "basic-french/french01/lesson01.md",
     "langues/pimsleur.md",
     "langues/basic-french.md",
-    "basic-french/french01/lesson01.md",
+    "programmation/unix.md",
     "basic-french",
     "basic-french/french01",
     "langues",

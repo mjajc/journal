@@ -3,7 +3,7 @@
 This is my attempt at Pimsleur French. The goal is to finish the course by logging the progress here and transcribing lessons. I hope this helps in motivating me to listen to it every day.
 
 ## French 1
-- [ ] [Lesson 1](basic-french/french01/lesson01.md)
+- [x] [Lesson 1](basic-french/french01/lesson01.md)
 - [ ] [Lesson 2](french01/lesson02.md)
 - [ ] [Lesson 3](lesson03.md)
 - [ ] [Lesson 4](french01/lesson04.md)
