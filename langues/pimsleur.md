@@ -1,6 +1,6 @@
 # Pimsleur French
 
-This is my attempt at transcribing Pimsleur lessons.
+This is my attempt at Pimsleur French. The goal is to finish the course by logging the progress here and transcribing lessons. I hope this helps in motivating me to listen to it every day.
 
 ## French 1
 - [ ] [Lesson 1](basic-french/french01/lesson01.md)
