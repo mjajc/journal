@@ -12,6 +12,9 @@ Language learning notes.
 
 ### Outils
 [Linux Commands](programmation/unix.md)
+[Git](programmation/git.md)
+
+
 
 
 ### Links

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da0f4c68e54cd20d",
+        "id": "f09c5da1b083ca31",
         "type": "tabs",
         "children": [
           {
-            "id": "b23ef9d97cfd216b",
+            "id": "b99d35a561caabf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,11 +132,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b23ef9d97cfd216b",
+  "active": "b99d35a561caabf5",
   "lastOpenFiles": [
     "README.md",
-    "basic-french/french01/lesson01.md",
+    "basic-french/french01/lesson02.md",
     "langues/pimsleur.md",
+    "french01",
+    "programmation/git.md",
+    "basic-french/french01/lesson01.md",
     "langues/basic-french.md",
     "programmation/unix.md",
     "basic-french",

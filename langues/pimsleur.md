@@ -4,7 +4,7 @@ This is my attempt at Pimsleur French. The goal is to finish the course by loggi
 
 ## French 1
 - [x] [Lesson 1](basic-french/french01/lesson01.md)
-- [ ] [Lesson 2](french01/lesson02.md)
+- [x] [Lesson 2](basic-french/french01/lesson02.md)
 - [ ] [Lesson 3](lesson03.md)
 - [ ] [Lesson 4](french01/lesson04.md)
 - [ ] [Lesson 5](french01/lesson05.md)
